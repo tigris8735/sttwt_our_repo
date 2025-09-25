@@ -246,10 +246,12 @@ git push origin main
 ## Проверочные тесты
 
 ### Тест для Тимлида:
-- [ ] `git status` показывает "working tree clean"
-- [ ] `git log` отображает мерж-коммит от PR
+- [+] `git status` показывает "working tree clean"
+- [+] `git log` отображает мерж-коммит от PR
 - [+] Все ветки актуальны (`git fetch --all`)
 - [+] На GitHub отображаются все изменения
+![alt text](image-1.png)
+
 
 ### Тест для Падавана:
 - [+] `git remote -v` показывает origin и upstream
