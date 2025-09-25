@@ -144,7 +144,7 @@ git commit -m "______"
 
 **Команды отправки:**
 ```bash
-git push origin ______
+git push origin main
 ```
 
 **Информация Pull Request:**
