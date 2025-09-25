@@ -79,6 +79,7 @@ git branch -a
 git log --oneline --graph
 ```
 
+![alt text](image-4.png)
 ---
 
 ## Раздел Падавана
@@ -108,11 +109,13 @@ origin    https://github.com/wfhalyava97-cpu/sttwt_our_repo.git (push)
 upstream  https://github.com/tigris8735/sttwt_our_repo.git (fetch)
 upstream  https://github.com/tigris8735/sttwt_our_repo.git (push)
 ```
+![alt text](image-3.png)
+
 
 ### 2. Рабочий процесс
 
 **Создание feature-ветки:**
-- Имя ветки: `main`
+- Имя ветки: `new`
 - Цель изменений: `заполнение отчета`
 
 **Команды работы:**
